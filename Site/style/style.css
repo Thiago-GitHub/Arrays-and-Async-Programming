@@ -1,0 +1,80 @@
+body {
+        
+    background-image: url("../assets/test4.png");
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    cursor: url('/assets/pointer.png'), auto;
+
+}
+
+
+
+.p {
+
+    color: rgb(0, 255, 64);
+    font-size: 60px;
+    font-weight: bold;
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 20px;
+
+}
+
+.h1 {
+
+    color: rgb(255, 0, 0);
+    font-size: 60px;
+    font-weight: bold;
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    background-color: aqua;
+    font-weight: bold;
+
+
+}
+
+.h2 {
+
+    color: rgb(206, 57, 20);
+    font-size: 60px;
+    font-weight: bold;
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 20px;
+
+}
+
+.first {
+        
+        font-size: 10px;
+        font-weight: bold;
+        text-align: center;
+        margin-top: 20px;
+        margin-bottom: 20px;
+    
+}
+
+.first {
+        
+    font-size: 2px;
+    font-weight: bold;
+    text-align: center;
+    margin-top: 5px;
+    margin-bottom: 40px;
+
+}
+
+.menu {
+
+    font-size: 30px;
+    font-weight: bold;
+    text-align: left;
+    margin-top: 20px;
+    margin-bottom: 20px;
+
+}
+
+
